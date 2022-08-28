@@ -1,5 +1,5 @@
 AUTHOR = 'katipuzer0'
-SITENAME = 'Eliens'
+SITENAME = 'UPLB Eliens'
 SITEURL = ''
 
 PATH = 'content'
@@ -39,4 +39,4 @@ GITHUB_URL = 'https://github.com/uplb-eliens'
 TWITTER_URL = ''
 FACEBOOK_URL = ''
 GOOGLEPLUS_URL = ''
-SITESUBTITLE = 'UPLB Competitive Programming Team'
+SITESUBTITLE = 'Competitive Programming Team'
