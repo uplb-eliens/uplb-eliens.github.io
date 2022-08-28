@@ -6,4 +6,4 @@ Welcome!
 :category: News and Announcements
 :author: katipuzer0
 
-UPLB Eliens will be holding a recruitment contest soon..
+We will be holding a recruitment contest soon..
