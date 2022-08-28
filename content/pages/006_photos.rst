@@ -9,13 +9,13 @@ Algolympics 2020
 
 
 .. image:: ../photos/2020_algolympics/eliens-sneile.jpg
-   :width: 60%
+   :width: 50%
    :align: center
 
 .. image:: ../photos/2020_algolympics/eliens-friedchicken.jpg
-   :width: 60%
+   :width: 50%
    :align: center
 
 .. image:: ../photos/2020_algolympics/eliens-green.jpg
-   :width: 60%
+   :width: 50%
    :align: center
