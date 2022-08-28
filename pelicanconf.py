@@ -1,10 +1,11 @@
 AUTHOR = 'katipuzer0'
-SITENAME = 'UPLB Eliens'
+SITENAME = 'Eliens'
 SITEURL = ''
 
 PATH = 'content'
 
 THEME = 'gum'
+#THEME = 'nmnlist'
 
 TIMEZONE = 'Asia/Manila'
 
@@ -31,3 +32,11 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+####gum specific
+GITHUB_URL = 'https://github.com/uplb-eliens'
+TWITTER_URL = ''
+FACEBOOK_URL = ''
+GOOGLEPLUS_URL = ''
+SITESUBTITLE = 'UPLB Competitive Programming Team'
