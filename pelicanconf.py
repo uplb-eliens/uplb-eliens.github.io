@@ -3,13 +3,16 @@ SITENAME = 'UPLB Eliens'
 SITEURL = ''
 
 PATH = 'content'
-
+PAGE_PATHS = ['pages']
+ARTICLE_PATHS = ['articles']
 THEME = 'gum'
 #THEME = 'nmnlist'
 
 TIMEZONE = 'Asia/Manila'
 
 DEFAULT_LANG = 'en'
+
+STATIC_PATHS = ['images','photos']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -18,15 +21,17 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+
+
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'https://getpelican.com/'),
+#         ('Python.org', 'https://www.python.org/'),
+#         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
+#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
