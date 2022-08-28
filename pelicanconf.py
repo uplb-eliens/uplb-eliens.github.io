@@ -39,6 +39,8 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 
+DISPLAY_CATEGORIES_ON_MENU = 'Yes'
+
 ####gum specific
 GITHUB_URL = 'https://github.com/uplb-eliens'
 TWITTER_URL = ''
