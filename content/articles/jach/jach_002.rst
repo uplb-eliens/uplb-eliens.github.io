@@ -28,7 +28,7 @@ Sadly, code for competitive programming does not need to be readable and maintai
 
 *What's in it for you?*
 
-It can improve your problem-solving and programming skills, which *might* be helpful in technical interviews when applying for a job. For a competitive person like me who love CS, it's just for fun and some bragging rights.
+It can improve your problem-solving and programming skills, which *might* be helpful in technical interviews when applying for a job. For a competitive person like me who loves CS, it's just for fun and some bragging rights.
 
 *Final Notes*
 
