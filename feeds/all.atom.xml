@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>UPLB Eliens</title><link href="https://uplb-eliens.github.io/" rel="alternate"></link><link href="https://uplb-eliens.github.io/feeds/all.atom.xml" rel="self"></link><id>https://uplb-eliens.github.io/</id><updated>2022-08-29T00:00:00+08:00</updated><subtitle>Competitive Programming Team</subtitle><entry><title>What is competitive programming?</title><link href="https://uplb-eliens.github.io/what-is-competitive-programming.html" rel="alternate"></link><published>2022-08-29T00:00:00+08:00</published><updated>2022-08-28T00:00:00+08:00</updated><author><name>katipuzer0</name></author><id>tag:uplb-eliens.github.io,2022-08-29:/what-is-competitive-programming.html</id><summary type="html">&lt;p&gt;In competitive programming, competitors are given a set of programming
+<feed xmlns="http://www.w3.org/2005/Atom"><title>UPLB Eliens</title><link href="https://uplb-eliens.github.io/" rel="alternate"></link><link href="https://uplb-eliens.github.io/feeds/all.atom.xml" rel="self"></link><id>https://uplb-eliens.github.io/</id><updated>2022-08-29T00:00:00+08:00</updated><subtitle>Competitive Programming Team</subtitle><entry><title>What is Competitive Programming?</title><link href="https://uplb-eliens.github.io/what-is-competitive-programming.html" rel="alternate"></link><published>2022-08-29T00:00:00+08:00</published><updated>2022-08-28T00:00:00+08:00</updated><author><name>katipuzer0</name></author><id>tag:uplb-eliens.github.io,2022-08-29:/what-is-competitive-programming.html</id><summary type="html">&lt;p&gt;In Competitive Programming, competitors are given a set of programming
 problems to solve within a given time period. The competitor who solved
 the most number of problems or has accumulated the highest score is
 declared as the winner. Just like in sports or games, competitors need to
-practice in order …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In competitive programming, competitors are given a set of programming
+train and practice …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In Competitive Programming, competitors are given a set of programming
 problems to solve within a given time period. The competitor who solved
 the most number of problems or has accumulated the highest score is
 declared as the winner. Just like in sports or games, competitors need to
-practice in order to win. The types of programming problems usually involve
+train and practice in order to win. The types of programming problems usually involve
 data structures and algorithms as well as math concepts.&lt;/p&gt;
+&lt;p&gt;For more information check this &lt;a class="reference external" href="https://github.com/uplb-eliens/awesome-competitive-programming"&gt;repo&lt;/a&gt;.&lt;/p&gt;
 </content><category term="Tutorials and Guides"></category></entry><entry><title>Welcome!</title><link href="https://uplb-eliens.github.io/welcome.html" rel="alternate"></link><published>2022-08-28T00:00:00+08:00</published><updated>2022-08-28T00:00:00+08:00</updated><author><name>katipuzer0</name></author><id>tag:uplb-eliens.github.io,2022-08-28:/welcome.html</id><content type="html">&lt;p&gt;We will be holding a recruitment contest soon..&lt;/p&gt;
 </content><category term="News and Announcements"></category></entry></feed>
