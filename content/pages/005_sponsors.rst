@@ -7,6 +7,6 @@ Sponsors
 A big Thank You!
 ++++++++++++++++
 
-* Institute of Compouter Science Faculty Members
+* Institute of Computer Science Faculty Members
 * Institute of Computer Science Alumni Association
 * Anonymous Donors
