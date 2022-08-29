@@ -7,5 +7,5 @@ About
 
 Eliens is UPLB's competitive programming team. The team name "Eliens" 
 was selected to honor Dr. Eliezer A. Albacea, one of the first Computer Scientists 
-in the Philippines. UPLB has been participating in programming competitions since 2002.
+in the Philippines. UPLB has been participating in intercollegiate programming competitions since 2000.
 

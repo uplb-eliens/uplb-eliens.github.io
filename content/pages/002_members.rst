@@ -4,8 +4,8 @@ Members
 :category: Pages
 :date: 2022-08-28
 
-Team Manager
-============
+Team Manager/Fundraiser
+========================
 * Joseph Anthony C. Hermocilla (aka katipuzer0)
 
 Coaches
