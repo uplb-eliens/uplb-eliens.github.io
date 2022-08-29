@@ -36,3 +36,4 @@ Advisory Board
 * Clinton Poserio
 * Arian Jacildo
 * Jaime Samaniego
+* Jaderick Pabico
