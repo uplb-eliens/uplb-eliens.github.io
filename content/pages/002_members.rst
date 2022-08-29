@@ -32,4 +32,7 @@ Students
 Consultants
 ===========
 * James Plaras
+* Mark Froilan Tandoc
 * Clinton Poserio
+* Arian Jacildo
+* Jaime Samaniego
