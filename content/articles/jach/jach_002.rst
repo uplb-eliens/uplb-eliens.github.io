@@ -9,7 +9,7 @@ What is Competitive Programming?
 *Introduction*
 
 In Competitive Programming, competitors are given a set of programming 
-problems to solve within a given time period. The competitor who solved 
+problems to solve within a given time period. The competitor who solves 
 the most number of problems or has accumulated the highest score is 
 declared as the winner. Just like in sports or games, competitors need to 
 train and practice in order to win. The types of programming problems usually involve 
