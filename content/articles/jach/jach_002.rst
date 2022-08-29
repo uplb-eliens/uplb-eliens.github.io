@@ -32,7 +32,7 @@ It can improve your problem-solving and programming skills, which *might* be hel
 
 *What schools dominate the Competitive Programming landscape in PH?*
 
-Only `UPD <https://cphof.org/university/University%20of%20the%20Philippines%20-%20Diliman>`_ and `ADMU <https://cphof.org/university/Ateneo%20de%20Manila%20University>`_ have represented Philippines in the ICPC World Finals several times. Other schools who regularly compete include ADNU, FEU, and UP Cebu.
+Only `UPD <https://cphof.org/university/University%20of%20the%20Philippines%20-%20Diliman>`_ and `ADMU <https://cphof.org/university/Ateneo%20de%20Manila%20University>`_ have represented Philippines in the ICPC World Finals several times. Other schools that regularly compete include ADNU, FEU, and UP Cebu.
 `Kevin Atienza <https://cphof.org/profile/codeforces:kevinsogo>`_ is the top Competitive Programmer in PH from UPD. If my recollection is correct, 
 he has 'sogo' in his handle because Hotel SOGO sponsored their team way back. 
 
