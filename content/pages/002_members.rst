@@ -13,7 +13,7 @@ Coaches
 * Perico Dan Dionisio
 * Elijah Nicolas Isungga
 
-Students
+Students (Ranked)
 ========
 1. TBA
 2. TBA
@@ -29,8 +29,8 @@ Students
 12. TBA
 
 
-Consultants
-===========
+Advisory Board
+==============
 * James Plaras
 * Mark Froilan Tandoc
 * Clinton Poserio
