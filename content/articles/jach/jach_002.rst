@@ -18,7 +18,7 @@ Second, learn some Discrete Mathematics. You can get this from CMSC 56 and CMSC 
 
 Third, learn some Data Structures and Algorithm Analysis. You can get this from CMSC 123. Master linked lists, stacks, queues, hash tables, trees, graphs, etc. You will also be introduced to algorithm analysis to determine the performance of algorithms. Knowing this is important because some problems will require solutions that have bounds in terms of time and memory. Using more efficient (in terms of time and storage) data structures and algorithms might be needed.
 
-Lastly, practice solving problems on online platforms. I recommend `Kattis <https://open.kattis.com/universities/uplb.edu.ph>`_ for beginners. Try to stay on the #1 spot. Most problem statements have some "story." An excellent skill to develop is how to extract the "core" problem hidden in the story. Always solve first with pen and paper before writing code. Also, make sure to consider "edge cases" in your solutions.
+Lastly, practice solving problems on online platforms. I recommend `Kattis <https://open.kattis.com/universities/uplb.edu.ph>`_ for beginners. Try to stay on the #1 spot. Most problem statements have some "story." *An excellent skill to develop is how to extract the "core" problem hidden in the story*. Always solve first with pen and paper before writing code. Also, make sure to consider "edge cases" in your solutions.
 
 Lab exercises in the courses mentioned above are relatively easy compared to the problems in competitive programming. You might be overwhelmed while starting, but don't give up.
 
