@@ -14,7 +14,7 @@ In Competitive Programming, competitors are given a set of programming problems 
 
 First, learn the basics of programming and the features of the programming language you want to use. After taking CMSC 12, CMSC 21, and CMSC 22, you should understand variables, data types, recursion, operators, I/O facilities, control flow, arrays, and strings, searching, sorting, etc. of Python3, C, and Java. You should be able to translate basic algorithms into working and correct code.
 
-Second, learn some Discrete Mathematics. You can get this from CMSC 56 and CMSC 57. These courses do not require coding and mostly use pen and paper. However, I recommend you attempt to implement the algorithms studied in these courses. Understand set theory, counting techniques, methods of proofs, trees, graphs, and some automata.
+Second, learn some Discrete Mathematics. You can get this from CMSC 56 and CMSC 57. These courses do not require coding and mostly use pen and paper. However, I recommend you attempt to implement the algorithms studied in these courses. Understand set theory, probability, counting techniques, methods of proofs, trees, graphs, and some automata.
 
 Third, learn some Data Structures and Algorithm Analysis. You can get this from CMSC 123. Master linked lists, stacks, queues, hash tables, trees, graphs, etc. You will also be introduced to algorithm analysis to determine the performance of algorithms. Knowing this is important because some problems will require solutions that have bounds in terms of time and memory. Using more efficient (in terms of time and storage) data structures and algorithms might be needed.
 
