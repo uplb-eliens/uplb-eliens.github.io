@@ -36,6 +36,14 @@ Photos
    :align: center
    :alt: A photo is supposed to be here
 
+2017 PNPC  
+***********************************
+
+.. image:: ../photos/2017_pnpc/2017_pnpc_01.jpg
+   :width: 50%
+   :align: center
+   :alt: A photo is supposed to be here
+
 2016 ACM-ICPC Southern Luzon
 ***********************************
 
