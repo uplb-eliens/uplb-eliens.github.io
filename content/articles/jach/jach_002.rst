@@ -34,10 +34,12 @@ Competitive Programming can improve your problem-solving and programming skills,
 
 Only `UPD <https://cphof.org/university/University%20of%20the%20Philippines%20-%20Diliman>`_ and `ADMU <https://cphof.org/university/Ateneo%20de%20Manila%20University>`_ have represented the Philippines in the ICPC World Finals several times. Other schools that regularly compete include ADNU, FEU, and UP Cebu.
 `Kevin Atienza <https://cphof.org/profile/codeforces:kevinsogo>`_ is the top Competitive Programmer in PH from UPD. If my recollection is correct, 
-he has 'sogo' in his handle because Hotel SOGO sponsored their team way back. 
+he has 'sogo' in his handle because Hotel SOGO sponsored their teams way back.  
 
 **Final Notes**
 
-After completing CMSC 123 and practicing regularly (1 to 2 hours a day), you can make progress on your own. Study more advanced algorithm design techniques and solve more complex problems. Test your skills in actual competitions. Competitive Programming is not for everyone. It requires passion, commitment, discipline, and focus. While you're at it, enjoy and have fun!
+After completing CMSC 123 and practicing regularly (1 to 2 hours a day), you can make progress on your own. Study more advanced algorithm design techniques and solve more complex problems. Test your skills in actual competitions. 
+
+Competitive Programming is not for everyone. It requires passion, commitment, discipline, focus, and lots of free time to waste. While you're at it, enjoy and have fun!
 
 For more information, check this `repo <https://github.com/uplb-eliens/awesome-competitive-programming>`_.
