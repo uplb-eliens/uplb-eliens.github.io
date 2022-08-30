@@ -6,4 +6,6 @@ Welcome!
 :category: News and Announcements
 :author: katipuzer0
 
-We will be holding a recruitment contest soon..
+We will be holding a recruitment contest in the last week of September.
+Please wait for further announcements. 
+
