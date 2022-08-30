@@ -28,7 +28,7 @@ Sadly, code for competitive programming does not need to be readable and maintai
 
 **What's in it for you?**
 
-Competitive Programming can improve your problem-solving and programming skills, which *might* be helpful in technical interviews when applying for a job (especially in FAANG or MAMAA). For a competitive person like me who loves CS and coding, it's just for fun and some bragging rights.
+Competitive Programming can improve your problem-solving and programming skills, which *might* be helpful in technical interviews when applying for a job (especially in FAANG or MAMAA). Some graduate school admission committees give higher consideration to competitive programmers. For a competitive person like me who loves CS and coding, it's just for fun and some bragging rights.
 
 **What schools dominate the Competitive Programming landscape in PH?**
 
@@ -40,6 +40,6 @@ he has 'sogo' in his handle because Hotel SOGO sponsored their teams way back.
 
 After completing CMSC 123 and practicing regularly (1 to 2 hours a day), you can make progress on your own. Study more advanced algorithm design techniques and solve more complex problems. Test your skills in actual competitions. 
 
-Competitive Programming is not for everyone. It requires passion, commitment, discipline, focus, lots of free time to waste, and the desire to win. While you're at it, *enjoy and have fun!*
+Competitive Programming is not for everyone. It requires passion, commitment, discipline, focus, lots of free time to waste, and a strong desire to win. While you're at it, *enjoy and have fun!*
 
 For more information, check this `repo <https://github.com/uplb-eliens/awesome-competitive-programming>`_.
