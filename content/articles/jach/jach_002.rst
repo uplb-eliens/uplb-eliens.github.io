@@ -16,7 +16,7 @@ In Competitive Programming, competitors are given a set of programming problems 
 
 *Second, learn some Discrete Mathematics.* You can get this from CMSC 56 and CMSC 57. These courses do not require coding and mostly use pen and paper. However, I recommend you attempt to implement the algorithms studied in these courses. Understand boolean algebra, set theory, probability, counting techniques, methods of proof, trees, graphs, and some automata.
 
-*Third, learn some Data Structures and Algorithm Analysis. You can get this from CMSC 123*. Master *implementing* linked lists, stacks, queues, hash tables, trees, graphs, etc. Master *analyzing the efficiency of algorithms*. Knowing this is important because some problems will require solutions that have bounds in terms of time and memory. Using more efficient data structures and algorithms might be needed.
+*Third, learn some Data Structures and Algorithm Analysis*. You can get this from CMSC 123. Master *implementing* linked lists, stacks, queues, hash tables, trees, graphs, etc. Master *analyzing the efficiency of algorithms*. Knowing this is important because some problems will require solutions that have bounds in terms of time and memory. Using more efficient data structures and algorithms might be needed.
 
 *Lastly, practice solving problems on online platforms*. I recommend `Kattis <https://open.kattis.com/universities/uplb.edu.ph>`_ for beginners. Try to stay on the #1 spot (It seems like I need to `catch up <https://open.kattis.com/users/sir-jach>`_ haha). You can actually do this after taking CMSC 57 and CMSC 22 if you are serious on becoming a competitive programmer. There are simple problems that do not require data structures at all. Note also that most problem statements have some background "story." *An excellent skill to develop is how to extract the "core" problem hidden in the story*. Always solve first with pen and paper before writing code. Also, make sure to consider "edge cases" in your solutions.
 
@@ -28,7 +28,7 @@ Sadly, code for competitive programming does not need to be readable and maintai
 
 **What's in it for you?**
 
-Competitive Programming can improve your problem-solving and programming skills, which *might* be helpful in technical interviews when applying for a job. For a competitive person like me who loves CS and coding, it's just for fun and some bragging rights.
+Competitive Programming can improve your problem-solving and programming skills, which *might* be helpful in technical interviews when applying for a job (especially in FAANG or MAMAA). For a competitive person like me who loves CS and coding, it's just for fun and some bragging rights.
 
 **What schools dominate the Competitive Programming landscape in PH?**
 
