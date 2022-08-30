@@ -24,7 +24,7 @@ Problems in competitive programming are more challenging to solve than lab exerc
 
 **Code Quality**
 
-Sadly, code for competitive programming does not need to be readable and maintainable in the traditional sense of software engineering. Your program reads an input file(or from stdin) and then writes to an output file(or to stdout). The code with the minimum lines of code that solves a problem correctly is ideal. Forget using human-readable variable names. Use the C preprocessor to create shorthands for loops etc. Sometimes you don't need to implement data structures from scratch. Use the libraries in the language, such as STL in C++ and the Java API. Though for competitive programming, I highly recommend learning C++.
+Sadly, code for competitive programming does not need to be readable and maintainable in the traditional sense of software engineering. Your program reads an input file(or from stdin) and then writes to an output file(or to stdout). The code with the minimum lines of code that solves a problem correctly is ideal. Forget using human-readable variable names. Use the C preprocessor to create shorthands for loops etc. Sometimes you don't need to implement data structures from scratch. Use the libraries in the language, such as STL in C++ and the Java API. Though for competitive programming, I highly recommend learning C++. Improve your typing speed because time is of the essence in competitive programming.
 
 **What's in it for you?**
 
