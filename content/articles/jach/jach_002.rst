@@ -44,6 +44,6 @@ After completing CMSC 123 and practicing regularly (1 to 2 hours a day), you can
 
 *Competitive Programming is not for everyone.* It requires passion, commitment, discipline, focus, lots of free time to waste, and a strong desire to win. While you're at it, *enjoy and have fun!*
 
-[Warning!! Competitive Programming can be addicting and frustrating. *Git Gud*.]
+[WARNING!! Competitive Programming can be addicting and frustrating. *Git Gud*.]
 
 For more information, check this `repo <https://github.com/uplb-eliens/awesome-competitive-programming>`_.
