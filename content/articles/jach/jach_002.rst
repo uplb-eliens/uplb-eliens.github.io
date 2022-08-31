@@ -42,8 +42,8 @@ In UPLB, some of the best competitive programmers are James Plaras, Froilan Tand
 
 After completing CMSC 123 and practicing regularly (1 to 2 hours a day), you can make progress on your own. Study more advanced algorithm design techniques and solve more complex problems. Test your skills in actual competitions.. 
 
-Competitive Programming is not for everyone. It requires passion, commitment, discipline, focus, lots of free time to waste, and a strong desire to win. While you're at it, *enjoy and have fun!*
+*Competitive Programming is not for everyone.* It requires passion, commitment, discipline, focus, lots of free time to waste, and a strong desire to win. While you're at it, *enjoy and have fun!*
 
-[Warning!! Competitive Programming can be addicting.]
+[Warning!! Competitive Programming can be addicting and frustrating.]
 
 For more information, check this `repo <https://github.com/uplb-eliens/awesome-competitive-programming>`_.
