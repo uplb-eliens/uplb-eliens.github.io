@@ -28,7 +28,7 @@ Sadly, code for competitive programming does not need to be readable and maintai
 
 **What's in it for you?**
 
-Competitive Programming can improve your problem-solving and programming skills, which *might* be helpful in technical interviews when applying for a job (especially in FAANG or MAMAA). Some graduate school admission committees in CS(MS or PhD) give higher consideration to applicants who are competitive programmers. For a typical competitive person who loves CS and coding, like me, *it's just for fun and some bragging rights*.
+Competitive Programming can improve your problem-solving and programming skills, which *might* be helpful in technical interviews when applying for a job (especially in FAANG or MAMAA). Some graduate school admission committees in CS(MS or PhD) give higher consideration to applicants who are competitive programmers. For a typical competitive person who loves CS and coding (like me haha), *it's just for fun and some bragging rights*.
 
 **What schools dominate the Competitive Programming landscape in PH?**
 
