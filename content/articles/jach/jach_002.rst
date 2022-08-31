@@ -36,7 +36,7 @@ Only `UPD <https://cphof.org/university/University%20of%20the%20Philippines%20-%
 `Kevin Atienza <https://cphof.org/profile/codeforces:kevinsogo>`_ is the top Competitive Programmer in PH from UPD. If my recollection is correct, 
 he has 'sogo' in his handle because Hotel SOGO sponsored their teams way back. 
 
-In UPLB, some of the best competitive programmers are James Plaras, Froilan Tandoc, Clinton Poserio, Ken Mercado, Joshua Manalo, and Anton Rufino, Michael Angeles. 
+In UPLB, some of the best competitive programmers are James Plaras, Froilan Tandoc, Clinton Poserio, Ken Mercado, Joshua Manalo, Anton Rufino, and Michael Angeles. 
 
 **Final Notes**
 
