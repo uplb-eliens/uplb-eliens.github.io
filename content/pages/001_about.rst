@@ -12,4 +12,4 @@ Our vision is to be able to represent the Philippines in the `ICPC World Finals 
 Dr. Rafael Saldana and Dr. Allan Sioson are instrumental in bringing competitive programming, specifically ACM-ICPC, to the Philippines.
 
 
-For more information and contest invations, please email *jchermocilla@up.edu.ph*.
+For more information and contest invitations, please email *jchermocilla@up.edu.ph*.
