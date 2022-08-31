@@ -12,7 +12,7 @@ In Competitive Programming, competitors are given a set of programming problems 
 
 **How to start?**
 
-*First, learn the basics of programming and the features of the programming language you want to use*. After taking CMSC 12, CMSC 21, and CMSC 22, you should understand variables, data types, recursion, operators, I/O facilities, control flow structures, arrays, and strings, etc. of Python3, C, and Java. You should be able to translate basic algorithms, such as binary search and insertion sort, into working and correct code. A little bit of OOP knowledge, specifically Polymorphism and Inheritance, is important when using libraries and API.
+*First, learn the basics of programming and the features of the programming language you want to use*. After taking CMSC 12, CMSC 21, and CMSC 22, you should understand variables, data types, operators, I/O facilities, control flow structures, arrays, and strings, etc. of Python3, C, and Java. You should be able to translate basic algorithms, such as binary search and insertion sort, into working and correct code. A little bit of OOP knowledge, specifically Polymorphism and Inheritance, is important when using libraries and API.
 
 *Second, learn some Discrete Mathematics.* You can get this from CMSC 56 and CMSC 57. These courses do not require coding and mostly use pen and paper. However, I recommend you attempt to implement the algorithms studied in these courses. Understand boolean algebra, set theory, probability, counting techniques, methods of proof, trees, graphs, and some automata.
 
