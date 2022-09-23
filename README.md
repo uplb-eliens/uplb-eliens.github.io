@@ -44,6 +44,7 @@ $ git merge upstream/master
 ### 6. Create your blog entry
 ```
 $ mkdir -p content/articles/<YOUR_NICKNAME>
+$ mkdir -p content/articles/<YOUR_NICKNAME>/images
 ```
 [Example Article](https://raw.githubusercontent.com/uplb-eliens/uplb-eliens.github.io/master/content/articles/jach/jach_002.rst).
 
