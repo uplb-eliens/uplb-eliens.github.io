@@ -1,6 +1,7 @@
 # Contributing
 
 ### Set up the environment
+Tested with Pelican 4.8.0
 
 ```bash
 $ virtualenv pelican-blog-venv
@@ -26,7 +27,6 @@ $ cd uplb-eliens.github.io
 $ git remote -v
 $ git remote add upstream https://github.com/uplb-eliens/uplb-eliens.github.io.git
 $ git remote -v
-
 ```
 
 [Help: Create a remote](https://help.github.com/en/articles/configuring-a-remote-for-a-fork)
@@ -46,13 +46,15 @@ $ git merge upstream/master
 $ mkdir -p content/articles/<YOUR_NICKNAME>
 ```
 [Example Article](https://raw.githubusercontent.com/uplb-eliens/uplb-eliens.github.io/master/content/articles/jach/jach_002.rst).
+
 Follow the naming convention above.
 
-If your article has images, place them in the images directory.
+If your article has images, place them in the `images` directory.
 
 ### Commit and push
 
-You might want to sync with upstream first as described above.
+You might want to sync with upstream first as described above before 
+running the following commands.
 
 ```
 $ git commit -m"edits" -a
