@@ -17,6 +17,7 @@ This is accomplished in github and you must be logged in. You should have the re
 
 ```
 $ git clone https://github.com/<YOUR_USERNAME>/uplb-eliens.github.io.git
+$ cd uplb-eliens.github.io
 ```
 
 ### Configure remote for your forked repo
@@ -41,7 +42,16 @@ $ git merge upstream/master
 [Help: Sync from upstream](https://help.github.com/en/articles/syncing-a-fork)
 
 ### Create your blog entry
+```
+$ mkdir -p content/articles/<YOUR_NICKNAME>
+```
+[Example Article](https://raw.githubusercontent.com/uplb-eliens/uplb-eliens.github.io/master/content/articles/jach/jach_002.rst).
+Follow the naming convention above.
+
+If your article has images, place them in the images directory.
 
 ### Commit and push
+
+
 
 ### Submit a pull request
