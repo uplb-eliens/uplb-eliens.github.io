@@ -76,7 +76,14 @@ $ git commit -m"edits" -a
 $ git push
 ```
 
-### 8. Submit a pull request
+### 8. Exit the environment
+
+```
+$ deactivate
+```
+
+### 9. Submit a pull request
+
 
 
 
