@@ -51,6 +51,20 @@ Follow the naming convention above.
 
 If your article has images, place them in the `images` directory.
 
+
+### 7. Test 
+
+```
+$ make clean
+$ make html
+$ make devserver
+```
+
+Check (http://localhost:8000) on browser.
+
+Ctrl+C on the terminal to stop the server when done.
+
+
 ### 7. Commit and push
 
 You might want to sync with upstream first as described above before 
