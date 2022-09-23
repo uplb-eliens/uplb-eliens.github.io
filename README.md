@@ -52,6 +52,19 @@ If your article has images, place them in the images directory.
 
 ### Commit and push
 
+You might want to sync with upstream first as described above.
 
+```
+$ git commit -m"edits" -a
+$ git push
+```
 
 ### Submit a pull request
+
+
+
+## Aditional Resources
+
+* [Adding content](https://docs.getpelican.com/en/latest/content.html)
+* [RST Syntax](https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst) 
+
