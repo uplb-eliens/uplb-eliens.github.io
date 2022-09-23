@@ -19,10 +19,26 @@ This is accomplished in github and you must be logged in. You should have the re
 $ git clone https://github.com/<YOUR_USERNAME>/uplb-eliens.github.io.git
 ```
 
-
 ### Configure remote for your forked repo
 
+```
+$ git remote -v
+$ git remote add upstream https://github.com/uplb-eliens/uplb-eliens.github.io.git
+$ git remote -v
+
+```
+
+[Help: Create a remote](https://help.github.com/en/articles/configuring-a-remote-for-a-fork)
+
 ### Sync your forked repo with the upstream
+
+```
+$ git fetch upstream
+$ git checkout master
+$ git merge upstream/master
+```
+
+[Help: Sync from upstream](https://help.github.com/en/articles/syncing-a-fork)
 
 ### Create your blog entry
 
