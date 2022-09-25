@@ -11,7 +11,7 @@ Team Manager/Fundraiser
 Coaches
 ==========
 * Perico Dan Dionisio
-* Elijah Nicolas Isungga
+* Elijah Nicholas Isungga
 
 Students (Ranked)
 =================
