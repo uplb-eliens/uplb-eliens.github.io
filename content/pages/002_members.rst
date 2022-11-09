@@ -6,7 +6,7 @@ Members
 
 Team Manager/Fundraiser
 ========================
-* Joseph Anthony C. Hermocilla (aka katipuzer0)
+* Joseph Anthony C. Hermocilla
 
 Coaches
 ==========
@@ -15,18 +15,16 @@ Coaches
 
 Students (Ranked)
 =================
-1. TBA
-2. TBA
-3. TBA
-4. TBA
-5. TBA
-6. TBA
-7. TBA
-8. TBA
-9. TBA
-10. TBA
-11. TBA
-12. TBA
+1. Jan Neal Isaac Villamin
+2. Henry William Yukit II
+3. Kenneth Renz Tegrado
+4. Uzziel Josh Abiday
+5. Christian Lois Olo
+6. Rheana Mindo
+7. Von Divino
+8. Lyco Sheen Lacuesta
+9. Jonas Atienza
+10. Jerico Sabile
 
 
 Advisory Board
