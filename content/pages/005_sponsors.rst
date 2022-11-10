@@ -4,7 +4,7 @@ Sponsors
 :category: Pages
 :date: 2022-08-28
 
-If you want to support our team, you can send any amount via **PayPal** or **GCASH** to **0906-230-1176**.
+If you want to support our team, you can send any amount via `PayPal <https://www.paypal.com/paypalme/jachermocilla>`_, GCash, or BPI.
 Please accomplish this `form <https://docs.google.com/forms/d/e/1FAIpQLSc5aJu7zIJ8k87yVu1SlGPMhFrhNGYcILwkg3A_bTwvEGTKZQ/viewform>`_ if you want your name/company logo to appear on this page. 
 
 .. list-table:: 
