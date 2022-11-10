@@ -5,6 +5,7 @@ Sponsors
 :date: 2022-08-28
 
 If you want to support our team, you can send any amount via **GCASH** to **0906-230-1176**.
+Please accomplish this `form <https://docs.google.com/forms/d/e/1FAIpQLSc5aJu7zIJ8k87yVu1SlGPMhFrhNGYcILwkg3A_bTwvEGTKZQ/viewform>`_ if you want your name/company logo to appear on this page. 
 
 A big Thank You!
 ++++++++++++++++
@@ -16,7 +17,10 @@ A big Thank You!
 .. list-table:: 
    :class: borderless
 
-   * - .. image:: ../photos/sponsors/mayas_baked_pasta.png
+   * - .. image:: ../photos/sponsors/ics_logo.jpg
+            :width: 140
+            :target: http://ics.uplb.edu.ph
+     - .. image:: ../photos/sponsors/mayas_baked_pasta.png
             :width: 140
             :target: https://www.facebook.com/mayasbakedpasta
      - .. image:: ../photos/sponsors/heralli_logo.png
