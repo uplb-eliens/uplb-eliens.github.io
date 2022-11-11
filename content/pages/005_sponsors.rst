@@ -4,16 +4,9 @@ Sponsors
 :category: Pages
 :date: 2022-08-28
 
-If you want to support our team, you can send any amount via `PayPal <https://www.paypal.com/paypalme/jachermocilla>`_, GCash, or BPI.
+If you want to support our team, you can send any amount via `PayPal <https://www.paypal.com/paypalme/jachermocilla>`_, `GCash <https://uplb-eliens.github.io/photos/qr/gcash_qr.jpg>`_, or `BPI <https://uplb-eliens.github.io/photos/qr/bpi_qr.png>`_.
 Please accomplish this `form <https://docs.google.com/forms/d/e/1FAIpQLSc5aJu7zIJ8k87yVu1SlGPMhFrhNGYcILwkg3A_bTwvEGTKZQ/viewform>`_ after sending your contribution if you want your name or company logo to appear on this page. 
 
-.. list-table:: 
-   :class: borderless
-
-   * - .. image:: ../photos/qr/gcash_qr.jpg
-            :height: 200
-     - .. image:: ../photos/qr/bpi_qr.png
-            :height: 200
 
 A big Thank You!
 ++++++++++++++++
@@ -21,6 +14,7 @@ A big Thank You!
 * ICS Faculty Members
 * ICS Alumni Association
 * Anonymous ICS Alumni Donors
+* Individual Sponsors: Karen Labustro
 
 .. list-table:: 
    :class: borderless
