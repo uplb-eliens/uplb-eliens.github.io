@@ -14,7 +14,7 @@ A big Thank You!
 * ICS Faculty Members
 * ICS Alumni Association
 * Anonymous ICS Alumni Donors
-* Individual Sponsors: Karen Labustro
+* Individual Sponsors: Karen Labustro, BSCS Batch 1982
 
 .. list-table:: 
    :class: borderless
