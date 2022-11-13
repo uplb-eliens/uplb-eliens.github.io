@@ -4,7 +4,7 @@ Sponsors
 :category: Pages
 :date: 2022-08-28
 
-Our team need some funds for registration, transportation, and snacks. If you want to support our team, you can send any amount via `PayPal <https://www.paypal.com/paypalme/jachermocilla>`_, `GCash <https://uplb-eliens.github.io/photos/qr/gcash_qr.jpg>`_, or `BPI <https://uplb-eliens.github.io/photos/qr/bpi_qr.png>`_.
+Our team need some funds for registration, transportation, and snacks. If you want to support, you can send any amount via `PayPal <https://www.paypal.com/paypalme/jachermocilla>`_, `GCash <https://uplb-eliens.github.io/photos/qr/gcash_qr.jpg>`_, or `BPI <https://uplb-eliens.github.io/photos/qr/bpi_qr.png>`_.
 Please accomplish this `form <https://docs.google.com/forms/d/e/1FAIpQLSc5aJu7zIJ8k87yVu1SlGPMhFrhNGYcILwkg3A_bTwvEGTKZQ/viewform>`_ after sending your contribution if you want your name or company logo to appear on this page. For transparency, you can also review our `financial report <https://docs.google.com/spreadsheets/d/e/2PACX-1vTyMBvRV1GndH0b7i78fdLDEnosGZAQqj1gWWLIqjXrF34Kcw-09KPz1fAtyvAd9OeWTxiSAtqqsZri/pubhtml?gid=1773316902&single=true>`_.
 
 
