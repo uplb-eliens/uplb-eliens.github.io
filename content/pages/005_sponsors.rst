@@ -28,4 +28,6 @@ A big Thank You!
      - .. image:: ../photos/sponsors/heralli_logo.png
             :width: 140
             :target: https://heralli.com
-
+     - .. image:: ../photos/sponsors/uplbgs.png
+            :width: 140
+            :target: https://gs.uplb.edu.ph

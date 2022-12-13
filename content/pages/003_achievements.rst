@@ -1,4 +1,4 @@
-Achivements
+Achievements
 ############
 
 :category: Pages
