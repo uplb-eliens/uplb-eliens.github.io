@@ -77,7 +77,7 @@ Photos
    :align: center
    :alt: A photo is supposed to be here
 
-2014 ADNU
+2014 ACM-ICPC Southern Luzon
 ***********************************
 
 .. image:: ../photos/2014_naga/2014_naga_01.jpg
