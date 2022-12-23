@@ -4,6 +4,14 @@ Photos
 :category: Pages
 :date: 2022-08-28
 
+
+2022 ICPC Asia-Manila
+*********************
+.. image:: ../photos/2022_icpc_asia_manila/icpc-asia-manila-2022.jpg
+   :width: 70%
+   :align: center
+   :alt: A photo is supposed to be here
+
 2020 Algolympics
 ****************
 
