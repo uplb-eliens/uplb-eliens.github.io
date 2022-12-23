@@ -5,8 +5,8 @@ Photos
 :date: 2022-08-28
 
 
-2022 ICPC Asia-Manila
-*********************
+2022 ICPC Asia-Manila Regionals
+*******************************
 .. image:: ../photos/2022_icpc_asia_manila/icpc-asia-manila-2022.jpg
    :width: 70%
    :align: center
