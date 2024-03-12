@@ -13,18 +13,25 @@ Coaches
 * Perico Dan Dionisio
 * Elijah Nicholas Isungga
 
-Students (Ranked)
-=================
+Students (Active/Not Ranked)
+============================
 1. Jan Neal Isaac Villamin
-2. Henry William Yukit II
-3. Kenneth Renz Tegrado
-4. Uzziel Josh Abiday
-5. Christian Lois Olo
-6. Rheana Mindo
-7. Von Divino
-8. Lyco Sheen Lacuesta
-9. Jonas Atienza
-10. Jerico Sabile
+2. Kenneth Renz Tegrado
+3. Uzziel Josh Abiday
+4. Rheana Mindo
+5. Jonas Atienza
+6. Val Derrick James Carino Alamillo
+7. Rafael Centeno Pascual (BSStat)
+8. Alan Benedict Sison Vender
+9. Vivekjeet Singh Chambal
+
+Students (Inactive/Not Ranked)
+==============================
+1. Henry William Yukiit II
+2. Von Divino
+3. Lyco Sheen Lacuesta
+4. Jerico Sabile
+5. Albrave Albayda
 
 
 Advisory Board
