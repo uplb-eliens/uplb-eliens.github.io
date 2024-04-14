@@ -4,6 +4,14 @@ Photos
 :category: Pages
 :date: 2022-08-28
 
+2024 Algolympics
+*******************************
+.. image:: ../photos/2024_algolympics/2024_algolympics.jpg
+   :width: 70%
+   :align: center
+   :alt: A photo is supposed to be here
+
+
 2023 Algolympics
 *******************************
 .. image:: ../photos/2023_algolympics/algolympics-2023.png
