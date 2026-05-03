@@ -4,34 +4,29 @@ Members
 :category: Pages
 :date: 2022-08-28
 
+(Academic Year 2025-2026)
+
 Team Manager/Fundraiser
 ========================
 * Joseph Anthony C. Hermocilla
 
-Coaches
-==========
-* Perico Dan Dionisio
-* Elijah Nicholas Isungga
+Coaches/Trainers
+================
+* Darryl Caponpon
+* Shanmykel Dela Cruz
+* Von Arellano
 
 Students (Active/Not Ranked)
 ============================
 1. Jan Neal Isaac Villamin
-2. Kenneth Renz Tegrado
-3. Uzziel Josh Abiday
-4. Rheana Mindo
-5. Jonas Atienza
-6. Val Derrick James Carino Alamillo
-7. Rafael Centeno Pascual (BSStat)
-8. Alan Benedict Sison Vender
-9. Vivekjeet Singh Chambal
-
-Students (Inactive/Not Ranked)
-==============================
-1. Henry William Yukiit II
-2. Von Divino
-3. Lyco Sheen Lacuesta
-4. Jerico Sabile
-5. Albrave Albayda
+2. Lance Chrysler V. De Jesus 
+3. Vivekjeet Singh Chambal
+4. Simonee Ezekiel Mariquit 
+5. Alan Benedict Vender
+6. Val Derrick Alamillo
+7. Terence P. de Real
+8. Charles Dwight M. Pelaez
+9. Marc Gerard R. Odon
 
 
 Advisory Board
