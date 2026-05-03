@@ -4,7 +4,7 @@ Alumni
 :category: Pages
 :date: 2022-08-28
 
-* [2025] [ Jonas Ateinza, Rafael Centeno Pascual,Rheana Mindo, Uzziel Josh Abiday, Renz Tegrado, Henry William Yukiit II, Von Divino, Lyco Sheen Lacuesta, Jerico Sabile, Albrave Albayda, Coaches: Elijah Nicholas Isungga, Perico Dan Dionisio, Mira Arguelles] 
+* [2025] [ Jonas Ateinza, Rafael Centeno Pascual,Rheana Mindo, Timothy Cerezo, Uzziel Josh Abiday, Renz Tegrado, Henry William Yukiit II, Von Divino, Lyco Sheen Lacuesta, Jerico Sabile, Albrave Albayda, Coaches: Elijah Nicholas Isungga, Perico Dan Dionisio, Mira Arguelles] 
 * [2023] [ Christian Lois Olo ] 
 * [2020] [John Alwin Pamintuan, Samuel Jade Ferrer, and Arvin Verain, Mark Layones, Ethan Paguila, and Louise Gabrielle Talip, Rene Jotham Culaway, Abigail Nadua, and Ryan Andrei Cruz, Coach: Clinton Poserio] 
 * [2018] [Emy Cabarles,Kim Ezikiel Del Mundo, John Alvin Sayson, Cyrez Ronquillo, Ken Mercado, Anton Rufino, Hasper Sunga, Joaquin Gamo, Rafiel Timothy Valencia, Coach: Clinton Poserio]
