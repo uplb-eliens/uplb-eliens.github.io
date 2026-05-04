@@ -6,7 +6,7 @@ Members
 
 (Academic Year 2025-2026)
 
-Team Manager/Fundraiser
+Team Manager/Fundraiser/Photographer
 ========================
 * Joseph Anthony C. Hermocilla
 
