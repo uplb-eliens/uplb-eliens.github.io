@@ -8,7 +8,7 @@ UPLB Eliens Tryouts
 
 1st Semester AY 2026-2027
 
-Like solving problems with code? The UPLB Eliens, UPLB’s competitive programming team, are looking for six new members.
+Like solving problems with code? The UPLB Eliens, UPLB’s competitive programming team, is looking for six new members.
 
 Students from any degree program are welcome, and no contest experience is required. You just need to be comfortable with at least one of these languages: C, C++, Java, or Python.
 
