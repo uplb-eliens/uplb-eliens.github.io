@@ -4,7 +4,7 @@ Members
 :category: Pages
 :date: 2022-08-28
 
-(Academic Year 2025-2026)
+(Academic Year 2026-2027)
 
 Team Manager/Fundraiser/Photographer
 ====================================
@@ -18,15 +18,13 @@ Coaches/Trainers
 
 Students (Active/Not Ranked)
 ============================
-1. Jan Neal Isaac Villamin
-2. Lance Chrysler V. De Jesus 
-3. Vivekjeet Singh Chambal
-4. Simonee Ezekiel Mariquit 
-5. Alan Benedict Vender
-6. Val Derrick Alamillo
-7. Terence P. de Real
-8. Charles Dwight M. Pelaez
-9. Marc Gerard R. Odon
+1. Lance Chrysler V. De Jesus 
+2. Simonee Ezekiel Mariquit 
+3. Alan Benedict Vender
+4. Val Derrick Alamillo
+5. Terence P. de Real
+6. Charles Dwight M. Pelaez
+7. Marc Gerard R. Odon
 
 
 Advisory Board
