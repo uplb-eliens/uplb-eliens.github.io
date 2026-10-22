@@ -12,9 +12,11 @@ Like solving problems with code? The UPLB Eliens, UPLB’s competitive programmi
 
 Students from any degree program are welcome, and no contest experience is required. You just need to be comfortable with at least one of these languages: C, C++, Java, or Python.
 
-When: Wednesday, October 28, 2026, 1:00 to 4:00 PM
-Where: ICS PC Lab 3, Institute of Computer Science
-Format: 7 problems, 2 hours, solo, on DOMjudge
+**When**: Wednesday, October 28, 2026, 1:00 to 4:00 PM
+
+**Where**: ICS PC Lab 3, Institute of Computer Science
+
+**Format**: 7 problems, 2 hours, solo, on DOMjudge
 
 Slots are limited to 24, so register early: https://forms.gle/JtN7Z9FPvnYnxsS28
 
