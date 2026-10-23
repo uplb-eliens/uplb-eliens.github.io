@@ -23,8 +23,7 @@ Students (Active/Not Ranked)
 3. Alan Benedict Vender
 4. Val Derrick Alamillo
 5. Terence P. de Real
-6. Charles Dwight M. Pelaez
-7. Marc Gerard R. Odon
+6. Marc Gerard R. Odon
 
 
 Advisory Board
