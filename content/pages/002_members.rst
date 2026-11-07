@@ -24,6 +24,9 @@ Students (Active/Not Ranked)
 4. Val Derrick Alamillo
 5. Terence P. de Real
 6. Marc Gerard R. Odon
+7. Alex Canillas
+8. Dennis Ezekiel D. Vidar
+9. Zymir Paulin R. Francisco
 
 
 Advisory Board
